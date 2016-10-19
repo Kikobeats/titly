@@ -8,7 +8,7 @@
 [![NPM Status](https://img.shields.io/npm/dm/titly.svg?style=flat-square)](https://www.npmjs.org/package/titly)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
-> Get title from a text.
+> Create a title from an input text.
 
 ## Install
 
