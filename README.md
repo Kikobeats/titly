@@ -42,14 +42,14 @@ The input text to extract the title.
 
 ##### separator
 
-Type: `string`
+Type: `string`<br>
 Default: ` `
 
 Split the input text based in the separator.
 
 ##### length
 
-Type: `number`
+Type: `number`<br>
 Default: `8`
 
 Count number of elements based on the separator for truncate the title.
