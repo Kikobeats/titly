@@ -1,5 +1,7 @@
 # titly
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/titly.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/titly.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/titly/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/titly)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/titly.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/titly)
